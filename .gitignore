@@ -1,0 +1,8 @@
+__pycache__/
+
+# ignore symlink to script coming with python-fitbit
+gather_keys_oauth2.py
+
+# ignore Fitbit client credentials and tokens
+access_refresh_tokens.txt
+client_id_secret.txt
